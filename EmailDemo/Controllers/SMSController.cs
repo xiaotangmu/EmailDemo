@@ -18,7 +18,7 @@ namespace EmailDemo.Controllers
     {
 
         private string THE_UID = "xiaotangmu"; //用户名
-        private string THE_KEY = "d41d8cd98f00b204e980"; //接口秘钥
+        private string THE_KEY = "xxxx"; //接口秘钥
 
         public SMSController() { }
 
